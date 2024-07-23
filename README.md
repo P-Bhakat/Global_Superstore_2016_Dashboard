@@ -31,6 +31,10 @@ Analyzing the Global Superstore data of 2016 can provide valuable insights into 
 ## 📈 'Asia Pacific' in 2013 - only 'Corporate' segment - sales analysis
 ![image](https://github.com/user-attachments/assets/97cc4ed9-8d0b-4631-a6bf-6e432c7e8930)
 
+## 📈 Sales analysis of Global Superstore in 'Europe' in 2012 - 'Technology' products:
+![image](https://github.com/user-attachments/assets/669835eb-69bb-4f09-9c22-19d35e2000b1)
+
+
 
 
 
