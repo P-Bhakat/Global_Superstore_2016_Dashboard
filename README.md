@@ -14,17 +14,23 @@ Analyzing the Global Superstore data of 2016 can provide valuable insights into 
 ## The Dashboard:
 ![image](https://github.com/user-attachments/assets/9dd886db-f6d2-4d84-ab13-9eb8ff846901)
 
-## Using this interactive dashboard, we can easily get business insights of regionwise and yearwise sales and profit distribution. We can also dive into drill down analysis finding the root cause of any problem at some country or for a particular product. For example, the following image is for the region: "Asia Pacific"
+## Using this interactive dashboard, we can easily get business insights of continent wise and yearwise sales and profit distribution. We can also dive into drill down analysis finding the root cause of any problem at some country or for a particular product. 
+
+## For example, the following image is for the market: "Asia Pacific"
 
 ![image](https://github.com/user-attachments/assets/578f3697-c0b3-4045-b1b5-ffe608c67039)
 
--	Here we can conclude that for Asia Pacific region the total profit during the period is $403.18K with Total sales of $4042.66K.
--	Also we can easily notice that among the product categories, only ‘Tables’ in ‘Furniture’ faced net loss while all other products were profitable in the region.
--	Turkey is the worst performing country in Asia Pacific region with a substantial loss of $98.45K followed by Pakistan and Philippines.
+-	Here we can conclude that for Asia Pacific market the total profit during the period is $403.18K with Total sales of $4042.66K.
+-	Also we can easily notice that among the product categories, only ‘Tables’ in ‘Furniture’ faced net loss while all other products were profitable in the continent.
+-	Turkey is the worst performing country in Asia Pacific with a substantial loss of $98.45K followed by Pakistan and Philippines.
 
 ## Similarly we can also study yearwise e.g. let's analyse the scenario for the year 2015:
 
 ![image](https://github.com/user-attachments/assets/13a1b364-a7be-4fe5-9b88-f1c24aa3c639)
+
+## 'Asia Pacific' in 2013 - only 'Corporate' segment - sales analysis
+![image](https://github.com/user-attachments/assets/97cc4ed9-8d0b-4631-a6bf-6e432c7e8930)
+
 
 
 
